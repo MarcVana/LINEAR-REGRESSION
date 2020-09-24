@@ -1,5 +1,5 @@
 # LINEAR-REGRESSION
-The most simple model in the Machine Learning area. Made with sklearn, with an explained variance score of 0.9890.
+The most simple model in the Machine Learning area. Made with sklearn, with an explained variance score of 0.9890. The metrics are shown in the console and a scatter plot is created.
 It is created around a simple problem:
 ---------------------------------------------------------
 A company hired you to find out what is more profitable: their app or website? Find out.
